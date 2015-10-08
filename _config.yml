@@ -49,9 +49,7 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -59,9 +57,6 @@ heroTitle: "GDG DevFest Munich 2015. <typeout>"
 eventDate: "16. Oktober, 2012"
 typeoutTextValues: '"", "Android", "IoT", "Cloud", "Virtual Reality"'
 typeoutFallback: "Season"
-heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
