@@ -54,7 +54,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest Munich 2015. <typeout>"
-eventDate: "16. Oktober, 2012"
+eventDate: "16. Oktober, 2015"
 typeoutTextValues: '"", "Android", "IoT", "Cloud", "Virtual Reality"'
 typeoutFallback: "Season"
 
