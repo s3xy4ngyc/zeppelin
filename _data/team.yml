@@ -35,3 +35,15 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+AlbertMessmer"}
     
+
+-
+  id: 3
+  name: "Benjamin"
+  surname: "Stürmer"
+  title: "Organisation"
+  thumbnailUrl: BenjaminStuermer.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG Android Munich", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+BenjaminStürmer"}
