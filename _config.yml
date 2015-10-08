@@ -113,6 +113,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
+partnersC4sponsorsEnabled: false
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
