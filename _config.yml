@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- 
+ - {permalink: "https://plus.google.com/events/c2jpcomluf4gfqn7ltotqksfpkk", text: "G+ Event"}
 bottomNavigationLinks:
 rightNavigationButtons:
 
