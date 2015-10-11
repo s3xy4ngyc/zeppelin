@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdg-munich.de/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, munich, wtm, women techmakers"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -55,7 +55,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest Munich 2015. <typeout>"
 eventDate: "16. Oktober, 2015"
-typeoutTextValues: '"", "Android", "IoT", "Cloud", "Virtual Reality"'
+typeoutTextValues: '"", "Android", "IoT", "Cloud", "Virtual Reality", "Women Techmakers"'
 typeoutFallback: "Season"
 
 # About Block
@@ -67,8 +67,8 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "150", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "2", specialCharacter: "+", info: "speakers", detail: "from Google"}
- - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "including Women Tech maker"}
+ - {count: "3", specialCharacter: "+", info: "speakers", detail: "from Google"}
+ - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "including Women Techmakers"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
