@@ -119,13 +119,13 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Google+ Event"
-subscribeActionEnabled: true
+subscribeActionEnabled: false
 subscribeAction: "https://plus.google.com/events/c2jpcomluf4gfqn7ltotqksfpkk"
 subscribeInfo: "Registration here"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to all conference sections. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "It's Free!"
@@ -135,7 +135,7 @@ ticketsOffers:
   ribbon: ""
   buyButtonText: "Register Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2015-10-00T10:00"
+  validFrom: "2015-10-01T10:00"
   validThrough: "2015-10-16T15:00"
 
 
