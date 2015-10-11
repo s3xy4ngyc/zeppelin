@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "https://plus.google.com/events/c2jpcomluf4gfqn7ltotqksfpkk", text: "G+ Event"}
+ 
 bottomNavigationLinks:
 rightNavigationButtons:
 
@@ -118,10 +118,10 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: ""
-subscribeActionEnabled: false
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeTitle: "Google+ Event"
+subscribeActionEnabled: true
+subscribeAction: "https://plus.google.com/events/c2jpcomluf4gfqn7ltotqksfpkk"
+subscribeInfo: "Registration here"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
