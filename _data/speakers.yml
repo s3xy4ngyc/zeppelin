@@ -33,10 +33,9 @@
     - {name: "github", link: "https://github.com/s3xy4ngyc"}
 - 
   id: 5
-  name: "Women"
-  surname: "Techmaker"
-  company: "???"
-  title: "??"
+  name: "Frank"
+  surname: "Fischer"
+  company: "Google"
+  title: "Developer Relation"
   bio: "Placeholder"
-  thumbnailUrl: AngeloRueggeberg.jpg
   rockstar: false
