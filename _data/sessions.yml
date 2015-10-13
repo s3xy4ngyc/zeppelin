@@ -44,10 +44,10 @@
   presentation: ""
 -
   id: 004
-  title: "WTM Talk"
-  description: "Something Girly"
+  title: "Welcome and a Tech Maker Best Practice"
+  description: ""
   subtype: presentation
   speakers: [5]
   language: en
   complexity: "Beginner" 
-  presentation: ""
+  
