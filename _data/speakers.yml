@@ -4,7 +4,7 @@
   surname: "Falstein"
   company: "Google"
   title: "Chief Game Designer"
-  bio: "Noah Falstein has been in the computer game industry since 1980 with many hit title credits and work experience at major developers like LucasArts, 3DO, and Dreamworks Interactive. Currently Chief Game Designer at Google, he previously ran the freelance design business, The Inspiracy. "
+  bio: "Noah Falstein has been in the computer game industry since 1980 with many hit title credits and work experience at major developers like LucasArts, 3DO, and Dreamworks Interactive. Currently Chief Game Designer at Google, he previously ran the freelance design business, The Inspiracy. He is known for his creative contributions to early Lucasfilm Games/LucasArts Entertainment titles such as 'The Secret of Monkey Island' and 'Indiana Jones and the Fate of Atlantis'"
   thumbnailUrl: NoahFalstein.jpg
   rockstar: true
 - 
@@ -38,4 +38,32 @@
   company: "Google"
   title: "Developer Relation"
   bio: "Placeholder"
+  rockstar: false
+- 
+  id: 6
+  name: "Enrique"
+  surname: " López Mañas"
+  company: "Freelancer"
+  title: "Developer"
+  thumbnailUrl: EnriqueLopez.jpg
+  bio: "Enrique is a Google Developer Expert, and Freelancer developer in Munich. He spends his free time developing OpenSource code, writing articles, learning languages or taking photographies. He loves nature, beer, traveling, and talking about him in third person."
+  rockstar: false
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert"}
+- 
+  id: 7
+  name: "Dr. Annette"
+  surname: "Leonhard-MacDonald"
+  company: "Imdventures"
+  title: "Founder"
+  bio: "?"
+  rockstar: false
+- 
+  id: 8
+  name: "Andrei"
+  surname: "Ciobtar"
+  company: "Nekami"
+  title: "CTO"
+  thumbnailUrl: AndreiCiobotar.jpg
+  bio: "Andrei Ciobotar is the founder and CTO of Neokami. As a computer scientist with over 15 years experience, Andrei has dedicated his academic and professional pursuits to everything Big Data and is an expert data integration and backend engineer. Prior to founding Neokami, Andrei spent 3 years developing the HoneyTracks Big Data analytics platform which was later acquired by IQU."
   rockstar: false

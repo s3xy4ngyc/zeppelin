@@ -25,14 +25,12 @@
 
 -
   id: 002
-  title: "Google BigData and Cloud"
-  description: "Google Sales Engineer Alex OSterloh will tell us about building Cloud Technoligy and Big Data Centers using Google Technoligies and Products"
+  title: "Big Data - The Cloud Way"
+  description: "Big Data (aka 'Data' at Google) projects in the past were less successful than one would imagine, as it usually involves managing complex clusters of machines and multiple software stacks. Over the past 10 years Google was forced to invent new methods for processing, analysing and running predictions over large data sets for batch and real-time insights. Today these tools go far beyond MapReduce and can be used by anyone. Google has only just started externalising some of these internal tools to the public as managed services. We will look at some of these tools and see why the cloud is a great place to run your next projects, whether these involve analysing click streams, gathering sensor data or interpreting social streams."
   subtype: presentation
   speakers: [4]
   language: en
   complexity: "Intermediate" 
-
-
 -
   id: 003
   title: "Google Beacons Demo"
@@ -50,4 +48,35 @@
   speakers: [5]
   language: en
   complexity: "Beginner" 
-  
+-
+  id: 005
+  title: "Continuous Integration with Android"
+  description: "Automatising the build and release project will save you time and prevent you from manual mistakes… as long as it is done correctly. This talk will explore which tools and techniques you should use to automatise your Android project and how to correctly apply Continuous Integration – from Jenkins to Gradle scripting – and provide useful tricks and release strategies."
+  subtype: presentation
+  speakers: [6]
+  language: en
+  complexity: "Beginner" 
+-
+  id: 006
+  title: "Ai Talk"
+  description: "Presentation on Ai and ARchitekture behind the service of Neokami"
+  subtype: presentation
+  speakers: [8]
+  language: en
+  complexity: "Beginner" 
+-
+  id: 007
+  title: "Experiences as a female founder of a Big Data / Machine Learning Company"
+  description: ""
+  subtype: presentation
+  speakers: [7]
+  language: en
+  complexity: "Beginner" 
+-
+  id: 008
+  title: "Discussion / Podium"
+  description: ""
+  subtype: discussion
+  speakers: [5]
+  language: en
+  complexity: "Beginner" 
